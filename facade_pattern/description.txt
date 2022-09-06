@@ -1,0 +1,13 @@
+Facade is a structural design pattern that provides a simplified interface to a complex system. It provides a unified
+interface to a set of interfaces in a subsystem.
+Facade means the face of a building or particularly an outer lying interface of a complex system that consists of
+several sub-systems
+
+Identification:
+Facade can be recognized in a class that has a simple interface, but delegates most of the work to other classes.
+
+Sample Use Case:
+Imagine we have a washing machine which can wash the clothes, rinse the clothes and spin the clothes but all the task
+separately. As the whole system is quite complex, we need to abstract the complexities of the subsystems.
+We need a system that can automate the whole task without the disturbance or interference of us.
+
